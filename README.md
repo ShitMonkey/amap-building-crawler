@@ -1,7 +1,7 @@
 # amap-building-crawler
 
 A crawler project for fetching 3d building data from amap and tramsform its to GeoJSON.<br>
-高德地图3D建筑信息爬虫项目，用于爬取高的地图的 3D 建筑物数据，并将其转存为 GeoJSON 数据格式
+高德地图3D建筑信息爬虫项目，用于爬取高德地图的 3D 建筑物数据，并将其转存为 GeoJSON 数据格式
 
 
 ## Doc
