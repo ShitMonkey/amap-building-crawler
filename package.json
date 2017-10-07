@@ -1,0 +1,17 @@
+{
+  "name": "amap-building-crawler",
+  "version": "1.0.0",
+  "description": "A crawler project for fetching 3d building data from amap and tramsform its to GeoJSON",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "coordtransform": "^2.1.2",
+    "lodash": "^4.17.4",
+    "tile-lnglat-transform": "^1.3.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "convert": "node test.js"
+  }
+}
